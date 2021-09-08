@@ -14,7 +14,7 @@ gunicorn = "==20.0.4"
 markdown2 = "==2.3.5"
 Django = "==1.11.17"
 Markdown = "==2.6.11"
-Pillow = "==5.0.0"
+Pillow = "==8.3.2"
 
 [requires]
 python_version = "3.6"
